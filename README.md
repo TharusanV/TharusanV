@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tharusan,
 
-Welcome to my GitHub profile! I'm a software engineering. I'm always excited to learn, bu!
+Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 - 🎓 2024 Graduate with a First Class BSc (Hons) in Computer Science
